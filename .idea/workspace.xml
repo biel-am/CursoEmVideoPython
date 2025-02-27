@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f137b1e-03bc-46af-bcbc-174d49199bea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosPython/Ex077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "02-26-2025",
+    "git-widget-placeholder": "02-27-2025",
     "last_opened_file_path": "C:/Users/Windows/Documents/GitHub/CursoEmVideoPython",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -53,8 +53,8 @@
       <recent name="C:\Users\Windows\Documents\GitHub\CursoEmVideoPython\ExerciciosPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex071">
-    <configuration name="Ex067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex077">
+    <configuration name="Ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex067.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex073.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex068.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex074.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex069" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex069.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex075.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex070" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex070.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex076.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex071.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosPython/Ex077.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex071" />
-        <item itemvalue="Python.Ex070" />
-        <item itemvalue="Python.Ex069" />
-        <item itemvalue="Python.Ex068" />
-        <item itemvalue="Python.Ex067" />
+        <item itemvalue="Python.Ex077" />
+        <item itemvalue="Python.Ex076" />
+        <item itemvalue="Python.Ex075" />
+        <item itemvalue="Python.Ex074" />
+        <item itemvalue="Python.Ex073" />
       </list>
     </recent_temporary>
   </component>
